@@ -24,6 +24,9 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p>
+          欢迎来到本项目。
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
